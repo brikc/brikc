@@ -13,17 +13,17 @@ I love to build. When the laptop closes for work, I’m usually playing with new
 ### 🚀 What I’ve Been Up To Recently
 
 * **OpenClaw Configuration:** Currently self-hosting and fine-tuning [OpenClaw](https://github.com/OpenClaw) to act as my **AI Personal Nutrition Coach**.
-* **Claude Code Experiments:** I've been using **Claude Code** to clear out my "Silly Project Ideas" backlog with high-velocity prototyping:
-    * 🕺 **Elvis-Themed Card Game:** A unique digital take on classic mechanics.
-    * 📚 **The "Someday" Library:** A curated web catalog for philosophy content and long-form thought pieces.
-    * 🏆 **Fantasy Football Optimizer:** Built a custom model that helped me **secure the championship** this year.
-    * 🏀 **March Madness Bracket Optimizer:** Applying data science to the inevitable chaos of the tournament.
+* **Claude Code Experiments:** I've been using **Claude Code** to clear out my lifelong "Silly Project Ideas" backlog with high-velocity prototyping:
+    * 🕺 **Elvis-Themed Card Game:** Gameplay like Apples to Apples but with Elvis.
+    * 📚 **Cafe Mortal:** A list of content recommended over the years for existential contemplation.
+    * 🏆 **Fantasy Football Optimizer:** Built a custom process that helped me **secure the championship** this year.
+    * 🏀 **March Madness Bracket Optimizer:** Using tech to increase my changes of bracket glory.
 
 ---
 
 ### 🧠 Core Interests & Values
-* **AI & Automation:** Exploring how LLMs can augment daily productivity without losing the "human" element.
-* **Privacy & Security:** Firm believer in data sovereignty and secure-by-default architecture.
-* **Mission:** My goal is simple—to leverage technology to leave the world a little better than I found it.
+* **AI & Automation:** AI is coming. I have lots of feelings about this. And it's important to me that I try to understand how it all works.
+* **Privacy & Security:** 
+* **Mission:** I hope I can leave the world a little better than I found it.
 
 ---
