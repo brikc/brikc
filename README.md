@@ -6,14 +6,6 @@ I grew up on AOL and Prodigy, studied computer science at university, started as
 
 > **Note:** Most of my active development happens in private repositories, but I am happy to provide code samples upon request.
 
----
-
-### Stuff I've Worked With
-
-* HTML, CSS, Python, Javascript, React, PHP, SQL, Java
-* Vercel, Netlify, Supabase, Streamlit
-* R Studio
-* Final Cut Pro
 
 ---
 
