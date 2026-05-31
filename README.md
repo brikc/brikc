@@ -8,6 +8,15 @@ I grew up on AOL and Prodigy, studied computer science at university, started as
 
 ---
 
+### Stuff I've Worked With
+
+* HTML, CSS, Python, Javascript, React, PHP, SQL, Java
+* Vercel, Netlify, Supabase, Streamlit
+* R Studio
+* Final Cut Pro
+
+---
+
 ### Current Projects
 
 * **OpenClaw:** Installed and running on a mac mini, Telegram as communication channel. 
